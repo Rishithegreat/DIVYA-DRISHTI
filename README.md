@@ -8,7 +8,7 @@ An affordable, multi-sensory Braille learning device that combines servo-actuate
 
 # Project Background
 
-**Event:** ARTEMIS Hackathon 2026
+**Event:** ADASTRA Hackathon 2026
 **Team:** Team Curiosity
 **Category:** Hardware
 **Problem Statement:** Affordable and interactive Braille learning tools are limited, making independent education difficult for visually impaired students.
